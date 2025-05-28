@@ -1,3 +1,5 @@
 İlk Github Metin Dosyam
 
 bu benim github üzerinde sakladığım ilk metin dosyasıdır.
+
+Bu satır da yaptığım ilk değişikliktir.
